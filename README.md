@@ -46,5 +46,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robloxhackerman&show_icons=true&locale=en" alt="robloxhackerman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robloxhackerman&" alt="robloxhackerman" /></p>
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robloxhackerman)](https://github.com/anuraghazra/github-readme-stats)
