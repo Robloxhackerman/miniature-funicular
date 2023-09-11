@@ -117,10 +117,3 @@
 ###
 
 ---
-
-###
-
-<img src="https://raw.githubusercontent.com/robloxhackerman/robloxhackerman/output/snake.svg" alt="Snake animation" />
-
-###
-
